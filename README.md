@@ -2,8 +2,8 @@
 
 ## Иван Михайленко
 ## Тел. +7-910-720-01-20
-## E-mail: animasola@yandex.ru
-## The ready task was uploaded here - http://whattodo.hostronavt.ru/.
+## E-mail: ivan-mikhaylenko@internet.ru
+## The ready task was uploaded here - http://whattodo.rnresume.ru/.
 
 ### Used packages
 
