@@ -223,7 +223,7 @@ const RadioSwitcher = styled.input`
         border-radius: 2px;
     }
     
-    :checked + label span {
+    &:checked + label span {
         background: url(${tick}) no-repeat;
     }
 
